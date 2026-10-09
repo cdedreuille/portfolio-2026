@@ -30,15 +30,3 @@ h1 {
   line-height: 1;
   letter-spacing: -0.02em;
 }
-
-.home-play {
-  position: absolute;
-  bottom: 2rem;
-  font-size: 1.5rem;
-  color: inherit;
-  text-decoration: none;
-}
-
-.home-play:hover {
-  text-decoration: underline;
-}
