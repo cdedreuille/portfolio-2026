@@ -1,0 +1,14 @@
+{
+  "name": "Journey",
+  "slug": "coca-cola",
+  "date": "2022-11-10",
+  "description": "As part of an experiment with the innovation team at Coca-Cola we had the chance to be able to redesign a concept for their platform. We also shared some ideas on how to expend their concept with other paltforms like Apple TV mixed with Apple Watch.",
+  "color": "#FF9C8F",
+  "grid": [
+    {
+      "src": "/coca-cola/01.jpg",
+      "width": 2560,
+      "height": 1630
+    }
+  ]
+}

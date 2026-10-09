@@ -1,0 +1,14 @@
+{
+  "name": "Daisie",
+  "slug": "daisie",
+  "date": "2022-12-06",
+  "description": "Daisie is a social platform to help young creators connect with each other and build projects together. It is focused around ideas and storytelling with tools to share inspirations, prototypes and discuss creative projects.\n\nI joined the team as the first designer, being responsible for the product design and research, from strategy to execution. We built the app and design system from the ground up for both mobile and web. This led to a launch with more than 22,000 sign ups on day one.",
+  "color": "#BFBFBF",
+  "grid": [
+    {
+      "src": "https://yyfpsncahaff6kzv.public.blob.vercel-storage.com/videos/AxoMzB01lZbmteHod007n01tcO00vFDe2g1P1xYAE8y1iT8.mp4",
+      "width": 16,
+      "height": 9
+    }
+  ]
+}

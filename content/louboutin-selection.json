@@ -1,0 +1,19 @@
+{
+  "name": "Selection of projects",
+  "slug": "louboutin-selection",
+  "date": "2022-11-02",
+  "description": "We work very closely with Christian Louboutin over the past years to build an incredible platform that will allow them to promote and sell their products.",
+  "color": "#F4A99A",
+  "grid": [
+    {
+      "src": "/louboutin-selection/01.jpg",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "src": "/louboutin-selection/04.jpg",
+      "width": 2560,
+      "height": 1440
+    }
+  ]
+}

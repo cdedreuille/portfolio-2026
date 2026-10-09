@@ -1,0 +1,19 @@
+{
+  "name": "Leather Goods",
+  "slug": "louboutin-leather-goods",
+  "date": "2022-11-10",
+  "description": "As part of our monthly digital campaigns and for the launch of a new series of bags we worked on a small series of videos that was presented as part of the website.",
+  "color": "#E8D2B0",
+  "grid": [
+    {
+      "src": "/louboutin-leather-goods/01.jpg",
+      "width": 1800,
+      "height": 1800
+    },
+    {
+      "src": "/louboutin-leather-goods/03.jpg",
+      "width": 1800,
+      "height": 1800
+    }
+  ]
+}

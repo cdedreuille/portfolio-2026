@@ -1,0 +1,14 @@
+{
+  "name": "Marketplace",
+  "slug": "couturelab",
+  "date": "2022-11-17",
+  "description": "One of our first project made in London with Carmen Bousquet's team. This project is quite important for me as this was the beginning of a lot of great adventures.",
+  "color": "#E3E0D6",
+  "grid": [
+    {
+      "src": "/couturelab/01.jpg",
+      "width": 1800,
+      "height": 1800
+    }
+  ]
+}

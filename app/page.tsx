@@ -1,7 +1,10 @@
+import { ProjectMasonry } from "@/components/project-masonry";
+import { getGridTiles } from "@/lib/projects";
+
 export default function Home() {
   return (
     <main>
-      <h1>Charlie</h1>
+      <ProjectMasonry tiles={getGridTiles()} />
     </main>
   );
 }

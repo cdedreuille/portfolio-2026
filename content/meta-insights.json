@@ -1,0 +1,14 @@
+{
+  "name": "Insights for Workplace",
+  "slug": "meta-insights",
+  "date": "2019-10-10",
+  "description": "Workplace is the all-in-one business communication platform from Meta. Think Facebook, but for your company. As part of a global improvement of the admin panel, I collaborated with researches, engineers and data scientist to create a new insights sections to help you understand your team better.",
+  "color": "#B9C4FF",
+  "grid": [
+    {
+      "src": "/meta-insights/01.png",
+      "width": 4096,
+      "height": 3072
+    }
+  ]
+}

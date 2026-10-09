@@ -1,0 +1,24 @@
+{
+  "name": "Spotify Technology",
+  "slug": "spotify-technology",
+  "date": "2026-09-17",
+  "description": "For the past two years, I’ve helped shape Spotify Technology, a new expression of Spotify built around the technology the company creates, not just the media it delivers.\n\nSpotify has always been a technology company at its core. Spotify Technology turns that capability outward, creating a home for the products, platforms and tools originally built inside Spotify and now made available to other companies.\n\nMy role spanned brand, product design and design systems, helping establish a coherent vision for what business software from Spotify could look and feel like.",
+  "color": "#BFBFBF",
+  "grid": [
+    {
+      "src": "/spotify-technology/01.jpg",
+      "width": 1800,
+      "height": 1800
+    },
+    {
+      "src": "/spotify-technology/07.jpg",
+      "width": 2110,
+      "height": 1346
+    },
+    {
+      "src": "/spotify-technology/10.jpg",
+      "width": 2560,
+      "height": 1920
+    }
+  ]
+}

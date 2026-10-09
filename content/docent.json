@@ -1,0 +1,24 @@
+{
+  "name": "Collector App",
+  "slug": "docent",
+  "date": "2022-11-02",
+  "description": "Docent is a radical new platform for art collectors to engage with contemporary art. Their mission is to bring a passionate expertise and a breadth of knowledge from across the contemporary art ecosystem together with the visionary research of leading scientists and thinkers in the realm of machine learning.\n\nAs a consultant, I was leading the product and design team as well as overseeing the product development. In the past 2 years working on this project I built the design system and all the new product experience. I also had the chance to code a significant part of the new structure we built on Expo.",
+  "color": "#C7C7C7",
+  "grid": [
+    {
+      "src": "/docent/02.jpg",
+      "width": 2874,
+      "height": 1974
+    },
+    {
+      "src": "/docent/03.jpg",
+      "width": 2874,
+      "height": 1974
+    },
+    {
+      "src": "https://yyfpsncahaff6kzv.public.blob.vercel-storage.com/videos/hCrQK66d8Cc8HLxD700dFtrBR00MpiyOEnfytHjLqA7Sk.mp4",
+      "width": 16,
+      "height": 9
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Workplace Marketing Site",
+  "slug": "workplace-marketing-site",
+  "date": "2023-01-25",
+  "description": "I was part of the growth team at Workplace, leading the design for the new marketing site. The previous version was not in sync with the brand and modifications were very slow to come to life. To succeed, I had to align numerous different teams internally from brand, marketing, product and research. We also partnered with teams from conversion.com to help us validate some of our insights.",
+  "color": "#FFE08A",
+  "grid": [
+    {
+      "src": "/workplace-marketing-site/01.jpg",
+      "width": 1548,
+      "height": 1664
+    }
+  ]
+}

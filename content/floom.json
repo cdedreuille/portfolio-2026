@@ -1,0 +1,19 @@
+{
+  "name": "Marketplace",
+  "slug": "floom",
+  "date": "2022-11-11",
+  "description": "Lana Elie (founder of Floom) approached me with a crazy new idea to create a marketplace for independent florist. This idea required an entire new platform and as part of La Moulade we designed and launched the new website.",
+  "color": "#FFD1BD",
+  "grid": [
+    {
+      "src": "/floom/01.jpg",
+      "width": 1800,
+      "height": 1800
+    },
+    {
+      "src": "/floom/02.jpg",
+      "width": 2560,
+      "height": 1591
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Deliveroo for Business",
+  "slug": "deliveroo-business",
+  "date": "2023-01-25",
+  "description": "From strategy and design to development, I was responsible for the creation of marketing digital products for the restaurant, growth and consumer teams.",
+  "color": "#9EEBDD",
+  "grid": [
+    {
+      "src": "/deliveroo-business/01.jpg",
+      "width": 1800,
+      "height": 1292
+    },
+    {
+      "src": "/deliveroo-business/04.jpg",
+      "width": 2560,
+      "height": 1440
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Kapture",
+  "slug": "kapture",
+  "date": "2022-11-10",
+  "description": "We created an online platform as well as a chrome extension to help you capture images, videos and make screenshots to save all your inspirations and share them with your team.",
+  "color": "#A9C7FF",
+  "grid": [
+    {
+      "src": "/kapture/01.jpg",
+      "width": 1800,
+      "height": 1800
+    },
+    {
+      "src": "/kapture/02.jpg",
+      "width": 2560,
+      "height": 1440
+    }
+  ]
+}

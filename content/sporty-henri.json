@@ -1,0 +1,14 @@
+{
+  "name": "Sporty Henri",
+  "slug": "sporty-henri",
+  "date": "2022-11-09",
+  "description": "We work very closely with Christian Louboutin to product a new platform dedicated to a custom product selection for sports.",
+  "color": "#CDE7B0",
+  "grid": [
+    {
+      "src": "/sporty-henri/01.jpg",
+      "width": 1800,
+      "height": 1800
+    }
+  ]
+}

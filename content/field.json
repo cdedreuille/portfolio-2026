@@ -1,0 +1,24 @@
+{
+  "name": "Marketing site",
+  "slug": "field",
+  "date": "2022-11-10",
+  "description": "As part of the work that we did at La Moulade we had the chance to collaborate with the art digital studio Field.io to build their new online website.",
+  "color": "#A8E6F0",
+  "grid": [
+    {
+      "src": "/field/01.jpg",
+      "width": 1800,
+      "height": 1800
+    },
+    {
+      "src": "/field/02.jpg",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "src": "/field/03.jpg",
+      "width": 2560,
+      "height": 1440
+    }
+  ]
+}

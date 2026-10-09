@@ -1,0 +1,14 @@
+{
+  "name": "Juun",
+  "slug": "juun",
+  "date": "2022-11-03",
+  "description": "Juun was our first self initated project back in 2011. As most of agencies back in the days we were not happy with the project management tools that were available in the market so we wanted to build our own. The idea was to create an updated Gantt Chart system that would not have the look of an excel file.",
+  "color": "#D9C8FF",
+  "grid": [
+    {
+      "src": "/juun/01.jpg",
+      "width": 2560,
+      "height": 1440
+    }
+  ]
+}

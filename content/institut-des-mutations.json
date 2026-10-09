@@ -1,0 +1,19 @@
+{
+  "name": "Branding",
+  "slug": "institut-des-mutations",
+  "date": "2022-11-16",
+  "description": "I had the chance to work a brand identity entirely created in generative design by setting up a list of rules that will define an infinite brand possibilities. This project was then used in print for all their digital assets.",
+  "color": "#FFC7D9",
+  "grid": [
+    {
+      "src": "/institut-des-mutations/01.jpg",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "src": "/institut-des-mutations/02.jpg",
+      "width": 2560,
+      "height": 1440
+    }
+  ]
+}
